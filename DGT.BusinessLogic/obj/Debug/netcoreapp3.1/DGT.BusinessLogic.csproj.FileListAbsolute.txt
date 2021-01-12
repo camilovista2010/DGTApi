@@ -1,0 +1,14 @@
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\bin\Debug\netcoreapp3.1\DGT.BusinessLogic.deps.json
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\bin\Debug\netcoreapp3.1\DGT.BusinessLogic.dll
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\bin\Debug\netcoreapp3.1\DGT.BusinessLogic.pdb
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\bin\Debug\netcoreapp3.1\DGT.Data.dll
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\bin\Debug\netcoreapp3.1\DGT.Models.dll
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\bin\Debug\netcoreapp3.1\DGT.Data.pdb
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\bin\Debug\netcoreapp3.1\DGT.Models.pdb
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\obj\Debug\netcoreapp3.1\DGT.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\obj\Debug\netcoreapp3.1\DGT.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\obj\Debug\netcoreapp3.1\DGT.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\obj\Debug\netcoreapp3.1\DGT.BusinessLogic.AssemblyInfo.cs
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\obj\Debug\netcoreapp3.1\DGT.BusinessLogic.csproj.CopyComplete
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\obj\Debug\netcoreapp3.1\DGT.BusinessLogic.dll
+C:\Users\Cristian\source\repos\DGTApi\DGT.BusinessLogic\obj\Debug\netcoreapp3.1\DGT.BusinessLogic.pdb

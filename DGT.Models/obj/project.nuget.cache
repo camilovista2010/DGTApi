@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SN6kB22vMsCjpRc/NN3oR44Qp7RzU7K1LKk0WFFF8kEXZO8jflfwYmebrvk5wUbeCPey7lrg30HQ0ew4OvngIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristian\\source\\repos\\DGTApi\\DGT.Models\\DGT.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.7\\microsoft.extensions.configuration.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\Cristian\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
