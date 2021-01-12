@@ -16,3 +16,5 @@ Para clonarlo y compilarlo localmente, haga clic en el botón "Clone in Desktop"
 siguiendo los comandos de git.
 
 git clone https://github.com/camilovista2010/DGTApi.git
+
+Compatible con Visual Studio 2019
