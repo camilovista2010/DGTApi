@@ -1,9 +1,0 @@
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\bin\Release\netcoreapp3.1\DGT.Models.deps.json
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\bin\Release\netcoreapp3.1\DGT.Models.dll
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\bin\Release\netcoreapp3.1\DGT.Models.pdb
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\obj\Release\netcoreapp3.1\DGT.Models.csprojAssemblyReference.cache
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\obj\Release\netcoreapp3.1\DGT.Models.csproj.CoreCompileInputs.cache
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\obj\Release\netcoreapp3.1\DGT.Models.AssemblyInfoInputs.cache
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\obj\Release\netcoreapp3.1\DGT.Models.AssemblyInfo.cs
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\obj\Release\netcoreapp3.1\DGT.Models.dll
-C:\Users\Cristian\source\repos\DGTApi\DGT.Models\obj\Release\netcoreapp3.1\DGT.Models.pdb
