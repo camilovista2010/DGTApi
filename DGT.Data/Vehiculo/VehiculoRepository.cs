@@ -69,7 +69,7 @@ namespace DGT.Data.Vehiculo
                 int CantidadHabitual = 10;
 
                 if (ExisteConductor(vehiculo.DNI) == null)
-                    throw new ArgumentException("El Conductor no existe en el sistema, debe registrarlo con el dni :" + vehiculo.DNI);
+                    throw new ArgumentException("El Conductor no existe en el sistema, debe registrarlo." );
                 if (ExisteVehiculo(vehiculo.Matricula) == true)
                     throw new ArgumentException("El Vehiculo ya se encuentra en el sistema");
                 if (ConductorHabitual(vehiculo.DNI) >= CantidadHabitual)

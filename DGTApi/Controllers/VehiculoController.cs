@@ -17,10 +17,7 @@ namespace DGTApi.Controllers
 
         private readonly IVehiculoBL VehiculoBL;
 
-        public VehiculoController(IVehiculoBL VehiculoBL)
-        {
-            this.VehiculoBL = VehiculoBL;
-        } 
+        public VehiculoController(IVehiculoBL VehiculoBL) => this.VehiculoBL = VehiculoBL; 
 
         [Route("GetTopInfracciones")]
         [HttpGet]
